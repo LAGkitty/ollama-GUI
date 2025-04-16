@@ -1,1 +1,35 @@
-# ollama-GUI
+Ollama Chat GUI
+Made by Claude and unsure if other Ollama versions work but "gemma3:1b" works.
+Overview
+A modern, user-friendly graphical interface for interacting with Ollama language models. This application provides a clean chat interface to communicate with locally-running Ollama models.
+Features
+
+Clean, modern interface with message bubbles for user and AI messages
+Automatic model detection from your Ollama installation
+Real-time streaming responses with typing indicator
+Conversation history within the session
+Simple and intuitive design
+
+Requirements
+
+Python 3.x
+Tkinter (usually comes with Python)
+Requests library (pip install requests)
+Ollama running locally on the default port (11434)
+
+Installation
+
+Make sure you have Ollama installed and running: Ollama Installation Guide
+Install the required Python package: pip install requests
+Download the script and run it: python ollama_gui.py
+
+Usage
+
+Launch the application
+Select a model from the dropdown menu
+Type your message and press Enter or click Send
+The AI will respond with a streaming reply
+
+The application will automatically detect available models from your Ollama installation.
+Note
+This is a simple desktop client for Ollama that requires the Ollama service to be running locally. 

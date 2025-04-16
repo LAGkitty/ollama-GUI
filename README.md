@@ -1,4 +1,4 @@
-Ollama Chat GUI
+**Ollama Chat GUI**
 Made by Claude and unsure if other Ollama versions work but "gemma3:1b" works.
 Overview
 A modern, user-friendly graphical interface for interacting with Ollama language models. This application provides a clean chat interface to communicate with locally-running Ollama models.

@@ -40,4 +40,4 @@ The application will automatically detect available models from your Ollama inst
 
 This is a simple desktop client for Ollama that requires the Ollama service to be running locally.
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFobDF1cGs2YWV3bDY3MTlkNHF3aXVmZGVwczMyZGRxaGRyd20waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiUIQb66dVGsVAZhdA/giphy.gif))
+![]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFobDF1cGs2YWV3bDY3MTlkNHF3aXVmZGVwczMyZGRxaGRyd20waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jiUIQb66dVGsVAZhdA/giphy.gif))
